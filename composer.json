@@ -63,5 +63,10 @@
       "Findologic\\Tests\\": "tests/",
       "Plenty\\Modules\\Webshop\\ItemSearch\\": "vendor/plentymarkets/plugin-interface/ItemSearch/"
     }
+  },
+  "config": {
+    "allow-plugins": {
+      "kylekatarnls/update-helper": true
+    }
   }
 }
